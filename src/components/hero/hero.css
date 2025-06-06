@@ -1,0 +1,147 @@
+:root{
+    --bg-color: #fff;
+    --sg-color: #5855E7;
+    --th-color: #A23AC1;
+    --black-color: black;
+    --font-weight-normal: 400;
+}
+
+.orqafon{
+    width: 100%;
+    min-height: 650px;
+    background: #fafafa;
+}
+.hero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.hero_text{
+
+    width: 570px;
+}
+.hero_h2{
+    font-size: 40px;
+    color: var(--th-color);
+    margin-bottom: 40px;
+}
+.hero_h2 span{
+    color: var(--black-color);
+}
+.hero_psan{
+    font-size: 18px;
+    font-weight: 400;
+    color: #000;
+}
+
+.hero_title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 570px;
+    gap: 40px;
+}
+
+.hero_button{
+    display: flex;
+    justify-content:start;
+    align-items:start;
+    gap: 70px;
+}
+.buttonsd{
+    font-weight: 500;
+    font-size: 32px;
+    border: none;
+    color: var(--bg-color);
+    border-radius: 12px;
+}
+
+
+
+.button1{
+    background-color: var(--sg-color);
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+    outline: none;
+}
+
+.button1:hover {
+    background-color: var(--th-color);
+}
+
+.button2{
+    border: 1px solid var(--sg-color);
+    color: #000;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    cursor: pointer;
+    outline: none;
+}
+
+.button2:hover {
+    background-color: var(--sg-color);
+    color: var(--bg-color);
+}
+
+@media (max-width: 1024px) {
+    .hero {
+        flex-direction: column;
+        padding: 40px 20px;
+        text-align: center;
+    }
+
+    .hero_text,
+    .hero_title {
+        width: 100%;
+    }
+
+    .hero_h2 {
+        font-size: 32px;
+        margin-bottom: 30px;
+    }
+
+    .hero_psan {
+        font-size: 16px;
+    }
+
+    .hero_button {
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        gap: 20px;
+        margin-top: 20px;
+    }
+
+    .buttonsd {
+        font-size: 24px;
+        padding: 10px 20px;
+        width: 100%;
+        max-width: 250px;
+    }
+}
+
+@media (max-width: 600px) {
+    .orqafon{
+        max-height: 250px;
+    }
+    .hero_h2 {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+
+    .hero_psan {
+        font-size: 14px;
+    }
+
+    .hero_imgsan{
+        display: none;
+    }
+
+    .buttonsd {
+        display: flex;
+        flex-direction: row;
+        font-size: 20px;
+        padding: 8px 16px;
+    }
+}

@@ -1,0 +1,13 @@
+.Ustunliklar{
+    width: 1200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+.sad{
+    width: 265px;
+    height: 385px;
+    color: white;
+}

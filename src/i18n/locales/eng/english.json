@@ -1,0 +1,104 @@
+{
+  "Navbar": {
+    "ul": {
+      "about": "About our school",
+      "advantages": "Advantages",
+      "class": "Classes",
+      "contact": "Contacts"
+    },
+    "button": {
+      "boglanish": "Contact us"
+    }
+  },
+  "Hero": {
+    "title": "— we care about your child's future",
+    "text": "Our experienced teachers make the learning process as engaging and effective as possible for your child",
+    "qongiroq": "Call now",
+    "malumot": "Learn more"
+  },
+  "About": {
+    "aboutUs": "About us",
+    "title": "To provide quality education and meaningful time, we divide children into small and comfortable groups based on age and learning level. Individual approach to each child. Up to 10 students per class. In-depth English teaching. We also send your children abroad for language practice. Education from 8:00 AM to 5:00 PM; 3 balanced meals (optional), homework assistance. Everything for convenience!"
+  },
+  "Bizningustunligimiz": "Our advantages",
+  "Ustunliklar": {
+    "user1": {
+      "picture": "...",
+      "title": "3 meals a day",
+      "text": "We provide three delicious and healthy meals daily for a comfortable experience at school"
+    },
+    "user2": {
+      "picture": "...",
+      "title": "IT technologies",
+      "text": "The 21st century is the era of information technology. Your child will learn programming basics, gadget trends, and future careers"
+    },
+    "user3": {
+      "picture": "...",
+      "title": "Mental arithmetic",
+      "text": "We teach children to quickly perform complex math calculations in their heads"
+    },
+    "users4": {
+      "picture": "...",
+      "title": "English speaking",
+      "text": "We organize full-day English Speaking Days to help your child communicate freely in English"
+    },
+    "user5": {
+      "picture": "...",
+      "title": "Foreign languages",
+      "text": "Qualified teachers will teach your children English, Russian, Arabic, and Chinese"
+    }
+  },
+  "Classes": "Classes",
+  "Sinflar": {
+    "sinf1": {
+      "picture": "...",
+      "title": "Grade 1",
+      "yosh": "6–7 years old",
+      "info": "Handwriting, speech therapy, English etiquette, English speaking, general subjects, and sports activities",
+      "button": "Enroll now"
+    },
+    "sinf2": {
+      "picture": "...",
+      "title": "Grade 2",
+      "yosh": "7–8 years old",
+      "info": "English level 1, Chinese, arithmetic, logical thinking, general subjects, and sports activities",
+      "button": "Enroll now"
+    },
+    "sinf3": {
+      "picture": "...",
+      "title": "Grade 3",
+      "yosh": "8–9 years old",
+      "info": "English level 2, Arabic, psychology, mental arithmetic, IT technologies, general subjects, and sports",
+      "button": "Enroll now"
+    },
+    "sinf4": {
+      "picture": "...",
+      "title": "Grade 4",
+      "yosh": "9–10 years old",
+      "info": "English level 3, French and German, IT technologies, general subjects, and sports activities",
+      "button": "Enroll now"
+    },
+    "sinf5": {
+      "picture": "...",
+      "title": "Preschool",
+      "yosh": "4–5 years old",
+      "info": "Math, logic, writing, drawing, IT technologies, robotics, gymnastics, taekwondo",
+      "button": "Enroll now"
+    }
+  },
+  "Aloqa": "Contact",
+  "Kontaktlar": {
+    "contact": "Contact",
+    "manzil": "Tashkent city, Chilanzar, block 16, Botirma street",
+    "raqam": "+998970020771",
+    "raqam2": "+998971970771 (Monday–Friday, 09:00–17:00)"
+  },
+  "Komentlar": {
+    "qoldirish": "Leave a request",
+    "text": "We offer a 20% discount in honor of our school's opening",
+    "ism": "First name",
+    "familiya": "Last name",
+    "raqam": "Phone number",
+    "button": "Send"
+  }
+}
