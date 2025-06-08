@@ -1,5 +1,5 @@
 import React from 'react'
-import MarkGroup from '../../../src/photo/MaskGroup.svg'
+import MarkGroup from '../../../src/photos/MaskGroup.svg'
 import './about.css'
 import { useTranslation } from 'react-i18next'
 

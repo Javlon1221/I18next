@@ -1,0 +1,57 @@
+.Ustunliklar {
+    width: 100%;
+    max-width: 1200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    gap: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.bizningustunligimiz {
+    text-align: center;
+    padding-top: 70px;
+    margin-bottom: 90px;
+}
+
+.sad {
+    width: 265px;
+    height: 385px;
+    color: white;
+    border: 1px solid red;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    background-color: inherit; 
+}
+
+@media (max-width: 995px) {
+    .sad {
+        width: 45%;
+    }
+
+    .Ustunliklar {
+        gap: 30px;
+    }
+}
+
+@media (max-width: 600px) {
+    .sad {
+        width: 100%;
+        height: auto;
+    }
+
+    .bizningustunligimiz {
+        padding-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    .Ustunliklar {
+        gap: 20px;
+    }
+}

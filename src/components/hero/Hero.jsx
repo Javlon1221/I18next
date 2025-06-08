@@ -1,6 +1,6 @@
 import React from 'react';
 import './hero.css';
-import heroImg from '../../photo/ребенок.svg';
+import heroImg from '../../photos/ребенок.svg';
 import { useTranslation } from 'react-i18next';
 
 const Hero = () => {

@@ -23,27 +23,27 @@
     "Bizningustunligimiz" : "Наши преимущества",
     "Ustunliklar" : {
         "user1" : {
-            "picture" : "https://www.figma.com/design/odH6ZeyvM1cx4GT4fW4Uug/Untitled?node-id=56-17&t=qHvxukCEmDvX2VUg-4",
+            "picture" : "./Bizningustunligimiz/photo/user1.svg",
             "title" : "3-х разовое питание",
             "text" : "Для комфотрного времяпровождения в нашей школе, мы готовим вкусную и полезную еду 3 раза в день"
         },
         "user2" : {
-            "picture" : "https://www.figma.com/design/odH6ZeyvM1cx4GT4fW4Uug/Untitled?node-id=56-18&t=qHvxukCEmDvX2VUg-4",
+            "picture" : "./Bizningustunligimiz/photo/user2.svg",
             "title" : "IT технологии",
             "text" : "21 век- это век информационных технологий. Ваш ребенок сможет научиться азам програмированния, тенденциям в мире гаджетов и профессиям будущего"
         },
         "user3" : {
-            "picture" : "https://www.figma.com/design/odH6ZeyvM1cx4GT4fW4Uug/Untitled?node-id=56-16&t=qHvxukCEmDvX2VUg-4",
+            "picture" : "./Bizningustunligimiz/photo/user3.svg",
             "title" : "Ментальная арифметика",
             "text" : "Мы обучим детей быстро вычислять в уме сложные математические рассчёты"
         },
         "users4" : {
-            "picture" : "https://www.figma.com/design/odH6ZeyvM1cx4GT4fW4Uug/Untitled?node-id=28-1709&t=qHvxukCEmDvX2VUg-4",
+            "picture" : "./Bizningustunligimiz/photo/user4.svg",
             "title" : "Общение на английском языке",
             "text" : "Для свободного общения на английском языке, у нас предусматривается целый день Speaking"
         },
         "user5" : {
-            "picture" : "https://www.figma.com/design/odH6ZeyvM1cx4GT4fW4Uug/Untitled?node-id=28-1712&t=qHvxukCEmDvX2VUg-4",
+            "picture" : "./Bizningustunligimiz/photo/user5.svg",
             "title" : "Иностранные языки",
             "text" : "Наши высококвалифицированные учителя обучат детей: Английскому, русскому, арабскому и китайскому языку"
         }
@@ -51,35 +51,35 @@
     "Classes" : "Классы",
     "Sinflar" : {
         "sinf1" : {
-            "picture" : "https://www.figma.com/design/odH6ZeyvM1cx4GT4fW4Uug/Untitled?node-id=33-2552&t=qHvxukCEmDvX2VUg-4",
+            "picture" : "../../components/sinflar/img/sinf1.png",
             "title" : "1 классы",
             "yosh" : "6-7 лет",
             "info" : "Изучение калиграфии, логопедия, английский этикет, разговорный английский, общеобразовательные предметы и спортивные занятия",
             "button" : "Записаться"
         },
         "sinf2" : {
-            "picture" : "https://www.figma.com/design/odH6ZeyvM1cx4GT4fW4Uug/Untitled?node-id=33-2554&t=qHvxukCEmDvX2VUg-4",
+            "picture" : "../../components/sinflar/img/sinf2.png",
             "title": "2 классы",
             "yosh" : "7-8 лет",
             "info" : "Английский 1 step, китайский язык, арифметика, логическое мышление, общеобразовательные предметы и спортивные занятия",
             "button" : "Записаться"
         },
         "sinf3" : {
-            "picture" : "https://www.figma.com/design/odH6ZeyvM1cx4GT4fW4Uug/Untitled?node-id=33-2556&t=qHvxukCEmDvX2VUg-4",
+            "picture" : "../../components/sinflar/img/sinf3.png",
             "title" : "3 классы",
             "yosh" : "8-9 лет",
             "info" : "Английский 2 step, арабский язык, психология, ментальная арифметика, IT технологии, общеобразовательные предметы и спортивные занятия",
             "button" :"Записаться"
         },
         "sinf4" : {
-            "picture" : "https://www.figma.com/design/odH6ZeyvM1cx4GT4fW4Uug/Untitled?node-id=33-2550&t=qHvxukCEmDvX2VUg-4",
+            "picture" : "../../components/sinflar/img/sinf4.png",
             "title" : "4 классы",
             "yosh" : "9-10 лет",
             "info" : "Английский 3 step, французский и немецкий язык,  IT технологии, общеобразовательные предметы и спортивные занятия",
             "button" : "Записаться"
         },
         "sinf5" : {
-            "picture" : "https://www.figma.com/design/odH6ZeyvM1cx4GT4fW4Uug/Untitled?node-id=33-2558&t=qHvxukCEmDvX2VUg-4",
+            "picture" : "../../components/sinflar/img/sinf1.png",
             "title" : "0 классы",
             "yosh" : "4-5 лет",
             "info" : "Математика, логическое мышление, пропись, изо студия, IT технологии, робототехника гимнастика, таэквондо",
